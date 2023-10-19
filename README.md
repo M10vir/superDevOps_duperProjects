@@ -52,7 +52,7 @@ Delve into Kubernetes deployments to orchestrate and manage containerized applic
 
 To get started with My DevOps Projects, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/my-devops-projects.git`
+1. Clone the repository: `git clone https://github.com/M10vir/superDevOps_duperProjects.git`
 2. Explore the individual project folders based on your interests.
 3. Refer to the project-specific README files for detailed instructions on setup and usage.
 
